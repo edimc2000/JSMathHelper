@@ -2,19 +2,21 @@
 
 A simple utility module that generates random numbers within a specified range.
 
-Usage
+**Usage**
 Import the ```randomNumberGenerator``` function from the module:
 ```javascript
 const { randomNumberGenerator } = require('math-helper-random');
 ```
 
 
-Generating Random Numbers
+**Generating Random Numbers**
 
-
+```javascript
 // Generate a random number between 1 and 10 (inclusive)
 const randomNum = randomNumberGenerator(1, 10);
 console.log(randomNum); // Output: e.g., 7
+```
+
 Parameters
 start (Number): The lower bound of the range (inclusive)
 
