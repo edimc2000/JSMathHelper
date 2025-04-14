@@ -1,1 +1,1 @@
-Math helper
+**Math helper**
