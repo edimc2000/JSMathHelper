@@ -3,8 +3,8 @@
 A simple utility module that generates random numbers within a specified range.
 
 Usage
-Import the randomNumberGenerator function from the module:
-```JavaScript
+Import the ```randomNumberGenerator``` function from the module:
+```javascript
 const { randomNumberGenerator } = require('math-helper-random');
 ```
 
